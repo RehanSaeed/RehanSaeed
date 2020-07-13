@@ -1,4 +1,4 @@
-<p align="center">Rehan is a professional Software Developer at Microsoft and <a href="https://rehansaeed.com/">blogger</a>. Although he works for Microsoft his opinions are his own. If it’s written in C# or .NET, Rehan has probably written something using it in anger!</p>
+<p align="center">Rehan is a professional Software Developer at Microsoft and blogger at <a href="https://rehansaeed.com/">RehanSaeed.com</a>. Although I work for Microsoft my opinions are my own. If it’s written in C# or .NET, I've has probably written something using it in anger!</p>
 
 <p align="center">You can see some of the open source projects that I've started and maintained in my <a href="https://rehansaeed.com/portfolio/">portfolio</a>. There are many others I've contributed to which you can see in my GitHub profile and of course there are other commercial projects that I cannot disclose.</p>
 
