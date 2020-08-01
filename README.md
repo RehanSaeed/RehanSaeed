@@ -15,3 +15,7 @@
 <p align="center"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed"><img alt="Stack Overflow profile" height="84" width="208" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/master/Images/Microsoft-Most-Valuable-Professional-750x303.png"/></a></p>
 
 <p align="center">Do you have questions or comments about my work? Please feel free to <a href="https://rehansaeed.com/">contact me</a>.</p>
+
+<img align="left" alt="Muhammad Rehan Saeed's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=RehanSaeed&show_icons=true&count_private=true&include_all_commits=true" />
+
+<img align="right" alt="Muhammad Rehan Saeed's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanSaeed&layout=compact" />
