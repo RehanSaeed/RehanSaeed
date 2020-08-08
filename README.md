@@ -18,8 +18,5 @@
 
 <p align="center">
 <img align="center" alt="Muhammad Rehan Saeed's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=RehanSaeed&show_icons=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-<img align="center" alt="Muhammad Rehan Saeed's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanSaeed&layout=compact" />
+    <img align="center" alt="Muhammad Rehan Saeed's top programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanSaeed&layout=compact" />
 </p>
