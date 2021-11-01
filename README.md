@@ -6,6 +6,7 @@
 [![Muhammad Rehan Saeed's LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rehan-saeed/)](https://www.linkedin.com/in/muhammad-rehan-saeed/)
 [![Muhammad Rehan Saeed's Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&link=https://www.youtube.com/channel/UC6geox4JkY11093RqecELGA)](https://www.youtube.com/channel/UC6geox4JkY11093RqecELGA)
 [![Muhammad Rehan Saeed's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/rehansaeeduk)](https://www.twitch.tv/rehansaeeduk)
+[![Muhammad Rehan Saeed's RSS Feed](https://img.shields.io/badge/-RSS-blue?style=flat-square&logo=rss&logoColor=white&color=E07C21&link=https://rehansaeed.com/rss.xml)](https://rehansaeed.com/rss.xml)
 
 <p align="justify">Rehan is a professional Software Developer at Microsoft and blogger at <a href="https://rehansaeed.com/">RehanSaeed.com</a>. Although I work for Microsoft my opinions are my own. If it’s written in C# or .NET, I've has probably written something using it in anger!</p>
 
