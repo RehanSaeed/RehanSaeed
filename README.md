@@ -8,7 +8,20 @@
 [![Muhammad Rehan Saeed's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/rehansaeeduk)](https://www.twitch.tv/rehansaeeduk)
 [![Muhammad Rehan Saeed's RSS Feed](https://img.shields.io/badge/-RSS-blue?style=flat-square&logo=rss&logoColor=white&color=E07C21&link=https://rehansaeed.com/rss.xml)](https://rehansaeed.com/rss.xml)
 
-<p align="justify">Rehan is a professional Software Developer at Microsoft and blogger at <a href="https://rehansaeed.com/">RehanSaeed.com</a>. Although I work for Microsoft my opinions are my own. If it’s written in C# or .NET, I've has probably written something using it in anger!</p>
+<p align="justify">I'm a professional Software Developer at Microsoft and blogger at <a href="https://rehansaeed.com/">RehanSaeed.com</a>. Although I work for Microsoft, my opinions are my own. If it’s written in C# or .NET, I have probably written something using it in anger!</p>
+
+<p align="justify">
+          I live stream my software development escapades on
+          <a href="https://www.youtube.com/c/MuhammadRehanSaeed">Youtube</a> and
+          <a href="https://www.twitch.tv/rehansaeeduk">Twitch</a> twice a week. Feel free to join me
+          live and ask questions.
+        </p>
+        
+<p align="center">
+    <a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Youtube views" height="30" src="https://img.shields.io/youtube/channel/views/UC6geox4JkY11093RqecELGA?style=social"/></a>
+    <br>
+    <a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Youtube subscribers" height="30" src="https://img.shields.io/youtube/channel/subscribers/UC6geox4JkY11093RqecELGA?style=social"/></a>
+</p>
 
 <p align="justify">You can see some of the open source projects that Rehan has started and maintained in his <a href="https://rehansaeed.com/portfolio/">portfolio</a>. There are many others he's contributed to which you can see in his GitHub profile and of course there are other commercial projects that he cannot disclose.</p>
 
