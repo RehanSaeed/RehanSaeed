@@ -1,10 +1,23 @@
 <p align="center"><img src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Muhammad-Rehan-Saeed-1600x300.jpg"/></p>
 
+[![Muhammad Rehan Saeed's Twitter](https://img.shields.io/badge/-@RehanSaeedUK-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/RehanSaeedUK)
+[![Muhammad Rehan Saeed's GitHub](https://img.shields.io/badge/-@RehanSaeed-%23181717?style=flat-square&logo=github)](https://github.com/RehanSaeed)
+[![Muhammad Rehan Saeed's StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=flat-square&logo=stackoverflow&color=F8F9F9&link=https://stackoverflow.com/users/1212017/muhammad-rehan-saeed)](https://stackoverflow.com/users/1212017/muhammad-rehan-saeed)
+[![Muhammad Rehan Saeed's LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rehan-saeed/)](https://www.linkedin.com/in/muhammad-rehan-saeed/)
+[![Muhammad Rehan Saeed's Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&link=https://www.youtube.com/channel/UC6geox4JkY11093RqecELGA)](https://www.youtube.com/channel/UC6geox4JkY11093RqecELGA)
+[![Muhammad Rehan Saeed's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/rehansaeeduk)](https://www.twitch.tv/rehansaeeduk)
+
 <p align="justify">Rehan is a professional Software Developer at Microsoft and blogger at <a href="https://rehansaeed.com/">RehanSaeed.com</a>. Although I work for Microsoft my opinions are my own. If it’s written in C# or .NET, I've has probably written something using it in anger!</p>
 
 <p align="justify">You can see some of the open source projects that I've started and maintained in my <a href="https://rehansaeed.com/portfolio/">portfolio</a>. There are many others I've contributed to which you can see in my GitHub profile and of course there are other commercial projects that I cannot disclose.</p>
 
-<p align="center"><a href="https://github.com/RehanSaeed"><img alt="GitHub followers" height="30" width="168" src="https://img.shields.io/github/followers/RehanSaeed?style=social"/></a></p>
+<p align="center">
+    <a href="https://github.com/RehanSaeed"><img alt="GitHub followers" height="30" src="https://img.shields.io/github/sponsors/RehanSaeed?logo=github&style=social"/></a>
+    <br>
+    <a href="https://github.com/RehanSaeed"><img alt="GitHub followers" height="30" src="https://img.shields.io/github/followers/RehanSaeed?style=social"/></a>
+    <br>
+    <a href="https://github.com/RehanSaeed"><img alt="GitHub stars" height="30" src="https://img.shields.io/github/stars/RehanSaeed?style=social"/></a>
+</p>
 
 <p align="justify">You can see a timeline of my open source work and blog posts in my <a href="https://stackoverflow.com/story/muhammad-rehan-saeed">Stack Overflow Developer Story</a> or just view my <a href="https://stackoverflow.com/users/1212017/muhammad-rehan-saeed">Stack Overflow profile</a>.</p>
 
