@@ -33,8 +33,8 @@
     <a href="https://github.com/RehanSaeed"><img alt="GitHub stars" height="30" src="https://img.shields.io/github/stars/RehanSaeed?style=social"/></a>
 </p>
 
-<p align="justify">You can see a timeline of my open source work and blog posts in my <a href="https://stackoverflow.com/story/muhammad-rehan-saeed">Stack Overflow Developer Story</a> or just view my <a href="https://stackoverflow.com/users/1212017/muhammad-rehan-saeed">Stack Overflow profile</a>.</p>
-
+<p align="justify">I have been fairly active on StackOverflow. You can view my <a href="https://stackoverflow.com/story/muhammad-rehan-saeed">Stack Overflow profile</a> and see my contribution to the community.</p>
+          
 <p align="center"><a href="https://stackoverflow.com/users/1212017/muhammad-rehan-saeed"><img alt="Stack Overflow profile" height="58" width="208" src="https://stackoverflow.com/users/flair/1212017.png?theme=dark"/></a></p>
   
 <p align="justify">Before I joined Microsoft, I was a <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed">Microsoft Most Valuable Professional (MVP)</a>. This gave me inside information into the work Microsoft was doing. Once I joined Microsoft, I had to give up this award but I am still a member of <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed">MVP Reconnect</a>.</p>
