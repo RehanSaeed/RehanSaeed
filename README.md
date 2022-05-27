@@ -19,7 +19,7 @@
         
 <p align="center">
     <a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Youtube views" height="30" src="https://img.shields.io/youtube/channel/views/UC6geox4JkY11093RqecELGA?style=social"/></a>
-    <br>
+    ‏‏‎ ‎
     <a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Youtube subscribers" height="30" src="https://img.shields.io/youtube/channel/subscribers/UC6geox4JkY11093RqecELGA?style=social"/></a>
 </p>
 
@@ -27,9 +27,9 @@
 
 <p align="center">
     <a href="https://github.com/sponsors/RehanSaeed"><img alt="GitHub followers" height="30" src="https://img.shields.io/github/sponsors/RehanSaeed?logo=github&style=social"/></a>
-    <br>
+    ‏‏‎ ‎
     <a href="https://github.com/RehanSaeed?tab=followers"><img alt="GitHub followers" height="30" src="https://img.shields.io/github/followers/RehanSaeed?style=social"/></a>
-    <br>
+    ‏‏‎ ‎
     <a href="https://github.com/RehanSaeed"><img alt="GitHub stars" height="30" src="https://img.shields.io/github/stars/RehanSaeed?style=social"/></a>
 </p>
 
