@@ -33,6 +33,11 @@
     <a href="https://github.com/RehanSaeed"><img alt="GitHub stars" height="30" src="https://img.shields.io/github/stars/RehanSaeed?style=social"/></a>
 </p>
 
+<p align="center">
+<img align="center" alt="Muhammad Rehan Saeed's GitHub statistics" src="profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only" />
+<img align="center" alt="Muhammad Rehan Saeed's GitHub statistics" src="profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" />
+</p>
+
 <p align="justify">I have been fairly active on StackOverflow. You can view my <a href="https://stackoverflow.com/story/muhammad-rehan-saeed">Stack Overflow profile</a> and see my contribution to the community.</p>
           
 <p align="center"><a href="https://stackoverflow.com/users/1212017/muhammad-rehan-saeed"><img alt="Stack Overflow profile" height="58" width="208" src="https://stackoverflow.com/users/flair/1212017.png?theme=dark"/></a></p>
@@ -42,8 +47,3 @@
 <p align="center"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed"><img alt="Stack Overflow profile" height="84" width="208" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Most-Valuable-Professional-750x303.png"/></a></p>
 
 <p align="justify">Do you have questions or comments about my work? Please feel free to <a href="https://rehansaeed.com/">contact me</a>.</p>
-
-<p align="center">
-<img align="center" alt="Muhammad Rehan Saeed's GitHub statistics" src="profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only" />
-<img align="center" alt="Muhammad Rehan Saeed's GitHub statistics" src="profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" />
-</p>
