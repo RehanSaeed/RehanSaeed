@@ -44,5 +44,6 @@
 <p align="justify">Do you have questions or comments about my work? Please feel free to <a href="https://rehansaeed.com/">contact me</a>.</p>
 
 <p align="center">
-<img align="center" alt="Muhammad Rehan Saeed's GitHub statistics" src="profile-3d-contrib/profile-green-animate.svg" />
+<img align="center" alt="Muhammad Rehan Saeed's GitHub statistics" src="profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only" />
+<img align="center" alt="Muhammad Rehan Saeed's GitHub statistics" src="profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" />
 </p>
