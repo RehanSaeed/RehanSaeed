@@ -3,7 +3,7 @@
 [![Muhammad Rehan Saeed's Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&link=https://www.youtube.com/c/MuhammadRehanSaeed)](https://www.youtube.com/c/MuhammadRehanSaeed)
 [![Muhammad Rehan Saeed's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/rehansaeeduk)](https://www.twitch.tv/rehansaeeduk)
 [![Muhammad Rehan Saeed's Twitter](https://img.shields.io/badge/-@RehanSaeedUK-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/RehanSaeedUK)
-[![Muhammad Rehan Saeed's Mastadon](https://img.shields.io/badge/-hachyderm.io/@RehanSaeed-%233088d4?style=flat-square&logo=mastodon&logoColor=ffffff)](https://hachyderm.io/@RehanSaeed)
+<a rel="me" href="https://hachyderm.io/@RehanSaeed">![Muhammad Rehan Saeed's Mastadon](https://img.shields.io/badge/-hachyderm.io/@RehanSaeed-%233088d4?style=flat-square&logo=mastodon&logoColor=ffffff)</a>
 [![Muhammad Rehan Saeed's GitHub](https://img.shields.io/badge/-@RehanSaeed-%23181717?style=flat-square&logo=github)](https://github.com/RehanSaeed)
 [![Muhammad Rehan Saeed's StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=flat-square&logo=stackoverflow&color=F8F9F9&link=https://stackoverflow.com/users/1212017/muhammad-rehan-saeed)](https://stackoverflow.com/users/1212017/muhammad-rehan-saeed)
 [![Muhammad Rehan Saeed's LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rehan-saeed/)](https://www.linkedin.com/in/muhammad-rehan-saeed/)
