@@ -1,12 +1,12 @@
 <p align="center"><img src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Muhammad-Rehan-Saeed-1600x300.jpg"/></p>
 
+[![Muhammad Rehan Saeed's Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&link=https://www.youtube.com/c/MuhammadRehanSaeed)](https://www.youtube.com/c/MuhammadRehanSaeed)
+[![Muhammad Rehan Saeed's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/rehansaeeduk)](https://www.twitch.tv/rehansaeeduk)
 [![Muhammad Rehan Saeed's Twitter](https://img.shields.io/badge/-@RehanSaeedUK-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/RehanSaeedUK)
 [![Muhammad Rehan Saeed's Mastadon](https://img.shields.io/badge/-hachyderm.io/@RehanSaeed-%233088d4?style=flat-square&logo=mastodon&logoColor=ffffff)](https://hachyderm.io/@RehanSaeed)
 [![Muhammad Rehan Saeed's GitHub](https://img.shields.io/badge/-@RehanSaeed-%23181717?style=flat-square&logo=github)](https://github.com/RehanSaeed)
 [![Muhammad Rehan Saeed's StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=flat-square&logo=stackoverflow&color=F8F9F9&link=https://stackoverflow.com/users/1212017/muhammad-rehan-saeed)](https://stackoverflow.com/users/1212017/muhammad-rehan-saeed)
 [![Muhammad Rehan Saeed's LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rehan-saeed/)](https://www.linkedin.com/in/muhammad-rehan-saeed/)
-[![Muhammad Rehan Saeed's Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&link=https://www.youtube.com/c/MuhammadRehanSaeed)](https://www.youtube.com/c/MuhammadRehanSaeed)
-[![Muhammad Rehan Saeed's Twitch](https://img.shields.io/badge/-Twitch-blue?style=flat-square&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/rehansaeeduk)](https://www.twitch.tv/rehansaeeduk)
 [![Muhammad Rehan Saeed's RSS Feed](https://img.shields.io/badge/-RSS-blue?style=flat-square&logo=rss&logoColor=white&color=E07C21&link=https://rehansaeed.com/rss.xml)](https://rehansaeed.com/rss.xml)
 
 <p align="justify">I am a professional Software Developer at Microsoft and blogger at <a href="https://rehansaeed.com/">RehanSaeed.com</a>. Although I work for Microsoft, my opinions are my own. If it’s written in C# or .NET, I have probably written something using it in anger!</p>
