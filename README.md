@@ -43,7 +43,7 @@
           
 <p align="center"><a href="https://stackoverflow.com/users/1212017/muhammad-rehan-saeed"><img alt="Stack Overflow profile" height="58" width="208" src="https://stackoverflow.com/users/flair/1212017.png?theme=dark"/></a></p>
   
-<p align="justify">Before I joined Microsoft, I was a <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed">Microsoft Most Valuable Professional (MVP)</a>. This gave me inside information into the work Microsoft was doing. Once I joined Microsoft, I had to give up this award but I am still a member of <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed">MVP Reconnect</a>.</p>
+<p align="justify">Before I joined Microsoft, I was a <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed">Microsoft Most Valuable Professional (MVP)</a> for three years. This gave me inside information into the work Microsoft was doing. Once I joined Microsoft, I had to give up this award.</p>
 
 <p align="center"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed"><img alt="Stack Overflow profile" height="84" width="208" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Most-Valuable-Professional-750x303.png"/></a></p>
 
