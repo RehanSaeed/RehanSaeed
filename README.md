@@ -50,4 +50,16 @@
   <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed"><img alt="Microsoft Most Valuable Professional (MVP) Alumni" height="150" width="150" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Most-Valuable-Professional-Alumni-300x300.png"/></a>
 </p>
 
+
+Here are some of the awards I have been given for my work as a software engineer in open source or elsewhere:
+
+<p align="center">
+  <a href="https://rehansaeed.com/open-uk-honouree/"><img alt="Open UK Honours 2022" height="99" width="322" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Open-UK-Honours-2022-1288x396.jpg"/></a>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/users/muhammad_rehan_saeed/badges"><img alt="Open UK Honours 2022" height="150" width="150" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Global-Hackathon-2022-300x300.png"/></a>
+  <a href="https://www.credly.com/users/muhammad_rehan_saeed/badges"><img alt="Open UK Honours 2021" height="150" width="150" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Global-Hackathon-2021-300x300.png"/></a>
+  <a href="https://www.credly.com/users/muhammad_rehan_saeed/badges"><img alt="Open UK Honours 2020" height="150" width="180" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Global-Hackathon-2020-350x300.png"/></a>
+</p>
+
 <p align="justify">Do you have questions or comments about my work? Please feel free to <a href="https://rehansaeed.com/">contact me</a>.</p>
