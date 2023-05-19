@@ -45,6 +45,9 @@
   
 <p align="justify">Before I joined Microsoft, I was a <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed">Microsoft Most Valuable Professional (MVP)</a> for three years. This gave me inside information into the work Microsoft was doing. Once I joined Microsoft, I had to give up this award.</p>
 
-<p align="center"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed"><img alt="Stack Overflow profile" height="84" width="208" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Most-Valuable-Professional-750x303.png"/></a></p>
+<p align="center">
+  <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed"><img alt="Microsoft Most Valuable Professional (MVP)" height="84" width="208" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Most-Valuable-Professional-750x303.png"/></a>
+  <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001654?fullName=Muhammad%20Rehan%20Saeed"><img alt="Microsoft Most Valuable Professional (MVP) Alumni" height="150" width="150" src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Microsoft-Most-Valuable-Professional-Alumni-300x300.png"/></a>
+</p>
 
 <p align="justify">Do you have questions or comments about my work? Please feel free to <a href="https://rehansaeed.com/">contact me</a>.</p>
