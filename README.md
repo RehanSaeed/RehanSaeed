@@ -1,8 +1,8 @@
 <p align="center"><img src="https://media.githubusercontent.com/media/RehanSaeed/RehanSaeed/main/Images/Muhammad-Rehan-Saeed-1600x300.jpg"/></p>
 
-<a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Muhammad Rehan Saeed's Youtube" height="40" src="https://img.shields.io/badge/-Youtube-blue?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;color=FF0000&amp;link=https://www.youtube.com/c/MuhammadRehanSaeed"/></a>
+<a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Muhammad Rehan Saeed's Youtube" height="40" width="151" src="https://img.shields.io/badge/-Youtube-blue?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;color=FF0000&amp;link=https://www.youtube.com/c/MuhammadRehanSaeed"/></a>
 [![Muhammad Rehan Saeed's Twitch](https://img.shields.io/badge/-Twitch-blue?style=for-the-badge&logo=twitch&logoColor=white&color=9147FF&link=https://www.twitch.tv/rehansaeeduk)](https://www.twitch.tv/rehansaeeduk)
-<a href="https://github.com/RehanSaeed"><img alt="Muhammad Rehan Saeed's GitHub" height="40" src="https://img.shields.io/badge/-@RehanSaeed-%23181717?style=for-the-badge&amp;logo=github"/></a>
+<a href="https://github.com/RehanSaeed"><img alt="Muhammad Rehan Saeed's GitHub" height="40" width="204" src="https://img.shields.io/badge/-@RehanSaeed-%23181717?style=for-the-badge&amp;logo=github"/></a>
 [![Muhammad Rehan Saeed's StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=for-the-badge&logo=stackoverflow&color=F8F9F9&link=https://stackoverflow.com/users/1212017/muhammad-rehan-saeed)](https://stackoverflow.com/users/1212017/muhammad-rehan-saeed)
 [![Muhammad Rehan Saeed's LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rehan-saeed/)](https://www.linkedin.com/in/muhammad-rehan-saeed/)
 [![Muhammad Rehan Saeed's RSS Feed](https://img.shields.io/badge/-RSS-blue?style=for-the-badge&logo=rss&logoColor=white&color=E07C21&link=https://rehansaeed.com/rss.xml)](https://rehansaeed.com/rss.xml)
@@ -17,19 +17,19 @@
 </p>
         
 <p align="center">
-    <a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Youtube views" height="50" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUC6geox4JkY11093RqecELGA&amp;query=%24.counters.api.viewCount&amp;label=Views&amp;logo=youtube&amp;style=social"/></a>
+    <a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Youtube views" height="50" width="260" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUC6geox4JkY11093RqecELGA&amp;query=%24.counters.api.viewCount&amp;label=Views&amp;logo=youtube&amp;style=social"/></a>
     ‏‏‎ ‎
-    <a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Youtube subscribers" height="50" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUC6geox4JkY11093RqecELGA&amp;query=%24.counters.api.subscriberCount&amp;label=Subscribers&amp;logo=youtube&amp;style=social"/></a>
+    <a href="https://www.youtube.com/c/MuhammadRehanSaeed"><img alt="Youtube subscribers" height="50" width="310" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.socialcounts.org%2Fyoutube-live-subscriber-count%2FUC6geox4JkY11093RqecELGA&amp;query=%24.counters.api.subscriberCount&amp;label=Subscribers&amp;logo=youtube&amp;style=social"/></a>
 </p>
 
 <p align="justify">You can see some of the open source projects that I have founded and maintained in my <a href="https://rehansaeed.com/portfolio/">portfolio</a>. There are many others I have contributed to which you can see in my <a href="https://github.com/RehanSaeed">GitHub profile</a> and of course there are other commercial projects that I cannot disclose.</p>
 
 <p align="center">
-    <a href="https://github.com/sponsors/RehanSaeed"><img alt="GitHub sponsors" height="50" src="https://img.shields.io/github/sponsors/RehanSaeed?logo=github&style=social"/></a>
+    <a href="https://github.com/sponsors/RehanSaeed"><img alt="GitHub sponsors" height="50" width="245" src="https://img.shields.io/github/sponsors/RehanSaeed?logo=github&style=social"/></a>
     ‏‏‎ ‎
-    <a href="https://github.com/RehanSaeed?tab=followers"><img alt="GitHub followers" height="50" src="https://img.shields.io/github/followers/RehanSaeed?style=social"/></a>
+    <a href="https://github.com/RehanSaeed?tab=followers"><img alt="GitHub followers" height="50" width="280" src="https://img.shields.io/github/followers/RehanSaeed?style=social"/></a>
     ‏‏‎ ‎
-    <a href="https://github.com/RehanSaeed"><img alt="GitHub stars" height="50" src="https://img.shields.io/github/stars/RehanSaeed?style=social"/></a>
+    <a href="https://github.com/RehanSaeed"><img alt="GitHub stars" height="50" width="225" src="https://img.shields.io/github/stars/RehanSaeed?style=social"/></a>
 </p>
 
 <p align="center">
